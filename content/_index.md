@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Hello World! (It works!)
+# Úvod. 
 
 This are the contents of the Hugo start website front page.
 
