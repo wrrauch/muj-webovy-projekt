@@ -14,24 +14,31 @@ vítáme vás na našem webu. Rádi zde přivítáme kohokoli od úplných zač�
 3. Webové zdroje: 
 
 https://www.patreon.com/AlysonTabbithaVid
+
 https://www.youtube.com/user/Mogrymillian
+
 https://angelacostumery.com/
+
 https://www.prosikulky.cz/
+
 https://www.burda-strihy.cz/
 
 4. Ne-webové zdroje: 
 
 Šití krok za krokem, BURDA 2014, ISBN 9771211963385.
 Kocurková Jana, Škola střihů, Informatorium 2017, ISBN 9788073331276.
+
 Quindt Svetlana, The Costume Making Guide: Creating Armor and Props for Cosplay, IMPACT Books 2016, ASIN B06X1CX1B4.
+
 Baughová Gail, Encyklopedie textilních materiálů, Slovart CZ 2012, ISBN 9788073916169
+
 Brýdová Monika, Hrajeme si s Fimo hmotou, CPRESS 2013, ISBN 9788026402664. 
 
 5. Multimédia
 
 6. Vzhled webu
 
-Vzhledem k tématu by jsme mohly zvolit například pastelové barevné schéma a nebo se rozšoupnout s barvami a podkladovými obrázky. Každopádně předpokládáme, že se na webu v průběhu zveřejňování oběví různá témata doplněná 
+Vzhledem k tématu by jsme mohly zvolit například pastelové barevné schéma a nebo se rozšoupnout s barvami a podkladovými obrázky. Každopádně předpokládáme, že se na webu v průběhu zveřejňování oběví různá témata doplněná všemožnými tématickými obrázky.
 
 7. Obsah
 
@@ -43,5 +50,5 @@ Vzhledem k tématu by jsme mohly zvolit například pastelové barevné schéma 
 
 8. Strategie
 
+Přidávání nejrůznějších článků, které se pokusí představit užitou techniku, tip nebo něco úzce spjatého s cosplay světem. 
 
-Nemáte tafku? Pořiďte si tafku. Je to svatý grál veškerého cosplaye.
