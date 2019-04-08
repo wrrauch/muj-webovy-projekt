@@ -1,14 +1,47 @@
 ---
-title: O n�s:
+title: O nás
   main:
     weight: 30
 ---
 
-This is a minimal [Hugo][] website created for a course [VIKBA07][].
+Ahoj, 
+vítáme vás na našem webu. Rádi zde přivítáme kohokoli od úplných začátečníků po ostřílené cosplayery, kteří by si chtěli rozšířit obzory. Slovo cosplay se, jak mnozí z vás vědí, skládá ze dvou slov: costume (kostým) a play (hra). Na naší stránce se vám budeme snažit pomoci především s kostýmem, protože věříme, že vyřádit se v rytmu své už postavy zvládnete sami. Přesto, aby jste neřekli že jsme tuto část zcela, opomenuli zveřejníme tu cospleyerovo desatero, které vám snad přídá na potřebné sebedůvěře. A teď už nezbývá nic jiného než neprokrastinovat a pustit se do práce. Přejeme vám hodně zdaru. :D
 
-Learn more about Hugo with a [quick start guide][qs] or by exploring its [documentation][hugoDocs].
+1. Cílová skupina: začínající i pokročilí cosplayeři
 
-[Hugo]: https://gohugo.io
-[VIKBA07]: https://is.muni.cz/predmet/phil/VIKBA07
-[hugoDocs]: https://gohugo.io/documentation/
-[qs]: https://gohugo.io/getting-started/quick-start/
+2. Název webu: *Jak vyzrát na cosplay*
+
+3. Webové zdroje: 
+
+https://www.patreon.com/AlysonTabbithaVid
+https://www.youtube.com/user/Mogrymillian
+https://angelacostumery.com/
+https://www.prosikulky.cz/
+https://www.burda-strihy.cz/
+
+4. Ne-webové zdroje: 
+
+Šití krok za krokem, BURDA 2014, ISBN 9771211963385.
+Kocurková Jana, Škola střihů, Informatorium 2017, ISBN 9788073331276.
+Quindt Svetlana, The Costume Making Guide: Creating Armor and Props for Cosplay, IMPACT Books 2016, ASIN B06X1CX1B4.
+Baughová Gail, Encyklopedie textilních materiálů, Slovart CZ 2012, ISBN 9788073916169
+Brýdová Monika, Hrajeme si s Fimo hmotou, CPRESS 2013, ISBN 9788026402664. 
+
+5. Multimédia
+
+6. Vzhled webu
+
+Vzhledem k tématu by jsme mohly zvolit například pastelové barevné schéma a nebo se rozšoupnout s barvami a podkladovými obrázky. Každopádně předpokládáme, že se na webu v průběhu zveřejňování oběví různá témata doplněná 
+
+7. Obsah
+
+-  Největší nepřítel cosplayera ?? Prokrastinace
+-  Nemáte tafku? Pořiďte si tafku. Je to svatý grál veškerého cosplaye.
+- Stylujeme paruky aneb když paruka nevypadá jako ta co jste objednali.
+- Desatero cosplaye
+- Vybíráme správný materiál aneb jak využít cokoli
+
+8. Strategie
+
+
+Nemáte tafku? Pořiďte si tafku. Je to svatý grál veškerého cosplaye.
