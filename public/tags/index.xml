@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jak vyzrát na cosplay</title>
+    <link>https://dazzling-morse-75d97a.netlify.com/tags/</link>
+    <description>Recent content in Tags on Jak vyzrát na cosplay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dazzling-morse-75d97a.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beatles</title>
+      <link>https://dazzling-morse-75d97a.netlify.com/tags/beatles/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-morse-75d97a.netlify.com/tags/beatles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>https://dazzling-morse-75d97a.netlify.com/tags/data/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-morse-75d97a.netlify.com/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://dazzling-morse-75d97a.netlify.com/tags/hello-world/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-morse-75d97a.netlify.com/tags/hello-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://dazzling-morse-75d97a.netlify.com/tags/hugo/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-morse-75d97a.netlify.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Start</title>
+      <link>https://dazzling-morse-75d97a.netlify.com/tags/start/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-morse-75d97a.netlify.com/tags/start/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

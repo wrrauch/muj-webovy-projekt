@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jak vyzrát na cosplay</title>
+    <link>https://dazzling-morse-75d97a.netlify.com/</link>
+    <description>Recent content on Jak vyzrát na cosplay</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dazzling-morse-75d97a.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>All albums of The Beatles</title>
+      <link>https://dazzling-morse-75d97a.netlify.com/post/another-post/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-morse-75d97a.netlify.com/post/another-post/</guid>
+      <description>&lt;p&gt;This is just another post. And it illustrates a mighty functionality.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Some shiat from youtube</title>
+      <link>https://dazzling-morse-75d97a.netlify.com/post/ukol2-post/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-morse-75d97a.netlify.com/post/ukol2-post/</guid>
+      <description>I have literally no idea what the fluff am I doing.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Hugo!</title>
+      <link>https://dazzling-morse-75d97a.netlify.com/post/welcome-to-hugo/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-morse-75d97a.netlify.com/post/welcome-to-hugo/</guid>
+      <description>You’ll find this post in your content/post directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run command hugo server, which launches a web server and auto-regenerates your site when a file is updated.
+To add new posts, simply add a file in the content/post directory that follows the convention name-of-post.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dazzling-morse-75d97a.netlify.com/error/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-morse-75d97a.netlify.com/error/404/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://dazzling-morse-75d97a.netlify.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dazzling-morse-75d97a.netlify.com/about/</guid>
+      <description>Ahoj,
+vítáme vás na našem webu. Rádi zde přivítáme kohokoli od úplných začátečníků po ostřílené cosplayery, kteří by si chtěli rozšířit obzory. Slovo cosplay se, jak mnozí z vás vědí, skládá ze dvou slov: costume (kostým) a play (hra). Na naší stránce se vám budeme snažit pomoci především s kostýmem, protože věříme, že vyřádit se v rytmu své už postavy zvládnete sami. Přesto, aby jste neřekli že jsme tuto část zcela, opomenuli zveřejníme tu cospleyerovo desatero, které vám snad přídá na potřebné sebedůvěře.</description>
+    </item>
+    
+  </channel>
+</rss>
