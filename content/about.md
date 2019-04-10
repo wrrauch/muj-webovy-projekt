@@ -1,18 +1,20 @@
----
-title: O nás
+ï»¿---
+title: About
+menu:
   main:
     weight: 30
 ---
 
+
 Ahoj, 
 
-vítáme vás na našem webu. Rádi zde pøivítáme kohokoli od úplnıch zaèáteèníkù po ostøílené cosplayery, kteøí by si chtìli rozšíøit obzory. Slovo cosplay se, jak mnozí z vás vìdí, skládá ze dvou slov: costume (kostım) a play (hra). Na naší stránce se vám budeme snait pomoci pøedevším s kostımem, protoe vìøíme, e vyøádit se v rytmu své u postavy zvládnete sami. Pøesto, aby jste neøekli e jsme tuto èást zcela, opomenuli zveøejníme tu cospleyerovo desatero, které vám snad pøídá na potøebné sebedùvìøe. A teï u nezbıvá nic jiného ne neprokrastinovat a pustit se do práce. Pøejeme vám hodnì zdaru. :D
+vÃ­tÃ¡me vÃ¡s na naÅ¡em webu. RÃ¡di zde pÅ™ivÃ­tÃ¡me kohokoli od ÃºplnÃ½ch zaÄÃ¡teÄnÃ­kÅ¯ po ostÅ™Ã­lenÃ© cosplayery, kteÅ™Ã­ by si chtÄ›li rozÅ¡Ã­Å™it obzory. Slovo cosplay se, jak mnozÃ­ z vÃ¡s vÄ›dÃ­, sklÃ¡dÃ¡ ze dvou slov: costume (kostÃ½m) a play (hra). Na naÅ¡Ã­ strÃ¡nce se vÃ¡m budeme snaÅ¾it pomoci pÅ™edevÅ¡Ã­m s kostÃ½mem, protoÅ¾e vÄ›Å™Ã­me, Å¾e vyÅ™Ã¡dit se v rytmu svÃ© uÅ¾ postavy zvlÃ¡dnete sami. PÅ™esto, aby jste neÅ™ekli Å¾e jsme tuto ÄÃ¡st zcela, opomenuli zveÅ™ejnÃ­me tu cospleyerovo desatero, kterÃ© vÃ¡m snad pÅ™Ã­dÃ¡ na potÅ™ebnÃ© sebedÅ¯vÄ›Å™e. A teÄ uÅ¾ nezbÃ½vÃ¡ nic jinÃ©ho neÅ¾ neprokrastinovat a pustit se do prÃ¡ce. PÅ™ejeme vÃ¡m hodnÄ› zdaru. :D
 
-1. Cílová skupina: zaèínající i pokroèilí cosplayeøi
+1. CÃ­lovÃ¡ skupina: zaÄÃ­najÃ­cÃ­ i pokroÄilÃ­ cosplayeÅ™i
 
-2. Název webu: **Jak vyzrát na cosplay**
+2. NÃ¡zev webu: **Jak vyzrÃ¡t na cosplay**
 
-3. Webové zdroje: 
+3. WebovÃ© zdroje: 
 
    	https://www.patreon.com/AlysonTabbithaVid
 
@@ -24,43 +26,42 @@ vítáme vás na našem webu. Rádi zde pøivítáme kohokoli od úplnıch zaèáteèníkù po 
 
    	https://www.burda-strihy.cz/
 
-4. Ne-webové zdroje: 
+4. Ne-webovÃ© zdroje: 
 
-   	Šití krok za krokem, BURDA 2014, ISBN 9771211963385.
+   	Å itÃ­ krok za krokem, BURDA 2014, ISBN 9771211963385.
 
-   	Kocurková Jana, Škola støihù, Informatorium 2017, ISBN 9788073331276.
+   	KocurkovÃ¡ Jana, Å kola stÅ™ihÅ¯, Informatorium 2017, ISBN 9788073331276.
 
    	Quindt Svetlana, The Costume Making Guide: Creating Armor and Props for Cosplay, IMPACT Books 	   2016, ASIN B06X1CX1B4.
 
-   	Baughová Gail, Encyklopedie textilních materiálù, Slovart CZ 2012, ISBN 9788073916169
+   	BaughovÃ¡ Gail, Encyklopedie textilnÃ­ch materiÃ¡lÅ¯, Slovart CZ 2012, ISBN 9788073916169
 
-   	Brıdová Monika, Hrajeme si s Fimo hmotou, CPRESS 2013, ISBN 9788026402664. 
+   	BrÃ½dovÃ¡ Monika, Hrajeme si s Fimo hmotou, CPRESS 2013, ISBN 9788026402664. 
 
-5. Multimédia
+5. MultimÃ©dia
 
-      Inspiraci pro cosplay mùeme najít na rùznıch médiích jakımi je napøíklad [Youtube](<https://www.youtube.com/results?search_query=cosplay&pbjreload=10>), [pinterest](<https://cz.pinterest.com/search/pins/?q=cosplay&rs=typed&term_meta[]=cosplay%7Ctyped>) a rùzné    další osobní weby. Jenom pod samotnım [#cosplay]( <https://www.instagram.com/explore/tags/cosplay/>) na instagramu lze vyhledat miliony obrázkù.
+      Inspiraci pro cosplay mÅ¯Å¾eme najÃ­t na rÅ¯znÃ½ch mÃ©diÃ­ch jakÃ½mi je napÅ™Ã­klad [Youtube](<https://www.youtube.com/results?search_query=cosplay&pbjreload=10>), [pinterest](<https://cz.pinterest.com/search/pins/?q=cosplay&rs=typed&term_meta[]=cosplay%7Ctyped>) a rÅ¯znÃ©    dalÅ¡Ã­ osobnÃ­ weby. Jenom pod samotnÃ½m [#cosplay]( <https://www.instagram.com/explore/tags/cosplay/>) na instagramu lze vyhledat miliony obrÃ¡zkÅ¯.
 
 6. Vzhled webu
 
-      Vzhledem k tématu by jsme mohly zvolit napøíklad pastelové barevné schéma a nebo se rozšoupnout  s barvami a podkladovımi obrázky. 
+      Vzhledem k tÃ©matu by jsme mohly zvolit napÅ™Ã­klad pastelovÃ© barevnÃ© schÃ©ma a nebo se rozÅ¡oupnout  s barvami a podkladovÃ½mi obrÃ¡zky. 
 
-      Kadopádnì pøedpokládáme, e se na webu v prùbìhu zveøejòování objeví rùzná témata ohlednì cosplaye, doplnìná všemonımi tématickımi obrázky.
+      KaÅ¾dopÃ¡dnÄ› pÅ™edpoklÃ¡dÃ¡me, Å¾e se na webu v prÅ¯bÄ›hu zveÅ™ejÅˆovÃ¡nÃ­ objevÃ­ rÅ¯znÃ¡ tÃ©mata ohlednÄ› cosplaye, doplnÄ›nÃ¡ vÅ¡emoÅ¾nÃ½mi tÃ©matickÃ½mi obrÃ¡zky.
 
 7. Obsah
 
-   	**Návrhy èlánkù:**
+   	**NÃ¡vrhy ÄlÃ¡nkÅ¯:**
 
-   	Nejvìtší nepøítel cosplayera ?? Prokrastinace
+   	NejvÄ›tÅ¡Ã­ nepÅ™Ã­tel cosplayera ?? Prokrastinace
 
-   	Nemáte tafku? Poøiïte si tafku. Je to svatı grál veškerého cosplaye.
+   	NemÃ¡te tafku? PoÅ™iÄte si tafku. Je to svatÃ½ grÃ¡l veÅ¡kerÃ©ho cosplaye.
 
-   	Stylujeme paruky aneb kdy paruka nevypadá jako ta co jste objednali.
+   	Stylujeme paruky aneb kdyÅ¾ paruka nevypadÃ¡ jako ta co jste objednali.
 
    	Desatero cosplaye
 
-   	Vybíráme správnı materiál aneb jak vyuít cokoli
+   	VybÃ­rÃ¡me sprÃ¡vnÃ½ materiÃ¡l aneb jak vyuÅ¾Ã­t cokoli
 
 8. Strategie
 
-      Pøidávání nejrùznìjších èlánkù, které se pokusí pøedstavit uitou techniku, tip nebo nìco úzce spjatého s cosplay svìtem. 
-
+      PÅ™idÃ¡vÃ¡nÃ­ nejrÅ¯znÄ›jÅ¡Ã­ch ÄlÃ¡nkÅ¯, kterÃ© se pokusÃ­ pÅ™edstavit uÅ¾itou techniku, tip nebo nÄ›co Ãºzce spjatÃ©ho s cosplay svÄ›tem. 
